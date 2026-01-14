@@ -8,7 +8,7 @@ while (a != n ):
         print ("Lower number please")
         guessses += 1
 
-    elif (a<n):
+    elif (a > n):
         print("Higher Number please")
         guessses+=1
 
