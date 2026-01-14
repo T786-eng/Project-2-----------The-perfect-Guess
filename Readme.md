@@ -17,11 +17,17 @@ A Python command-line game where the player tries to guess a randomly generated 
 📝 Example Output
 
 Guess the number: 50
+
 Higher Number please
+
 Guess the number: 75
+
 Lower Number please
+
 Guess the number: 63
+
 you have guessed the number 63 correctly in 3 attempt
+
 
 ⚙️ Logic
   
